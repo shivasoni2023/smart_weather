@@ -68,7 +68,7 @@ class _LoadingState extends State<Loading> {
           children: <Widget>[
             Image.asset("assets/images/weather_logo.png",height: 240,width: 240,),
 
-            Text("Mausam App",
+            Text("Weather App",
               style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.w500,
