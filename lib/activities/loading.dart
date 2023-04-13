@@ -75,7 +75,7 @@ class _LoadingState extends State<Loading> {
                   color: Colors.white
               ),),
             SizedBox(height: 10,),
-            Text("Made By Dhruv",
+            Text("Made By shiva",
               style: TextStyle(
                   fontSize: 18,
                   fontWeight: FontWeight.w400,
